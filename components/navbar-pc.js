@@ -8,7 +8,7 @@ let NavPc = () => {
   </div>
   <div className="flex-none">
     <ul className="menu menu-horizontal px-1">
-      <li><Link href={"/richtext"} >RichText</Link></li>
+      <li><Link href={"/richtext"} >RichText4U</Link></li>
       <li tabIndex={0}>
         <a>
           apps
