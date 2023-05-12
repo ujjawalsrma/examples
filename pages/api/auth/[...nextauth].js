@@ -17,6 +17,6 @@ export const authOptions = {
         
         })
       ],
-    secret: eVseGP80QZzuJhYqJR6egzp96X8QyrC0eh4VSuXmAXM=,
+    secret: "eVseGP80QZzuJhYqJR6egzp96X8QyrC0eh4VSuXmAXM=",
   }
   export default NextAuth(authOptions)
